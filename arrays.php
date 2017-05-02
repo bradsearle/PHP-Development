@@ -14,6 +14,22 @@
 
  <body>
 
+
+<?php
+
+$numberList = array(23,56,344,4322,'433', '<h1>hi<h1>');
+
+
+
+
+// print_r($numberList);
+echo $numberList[1];
+
+// echo $numberList[0];
+?>
+
+
+
  </body>
 
  </html>

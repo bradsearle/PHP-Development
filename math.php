@@ -14,6 +14,25 @@
 
  <body>
 
+<?php
+echo 56 + 45;
+echo "<br>";
+echo 56 - 45;
+
+echo"<br>";
+
+$number1=12;
+$number2=24;
+
+echo $number1 * $number2;
+
+$name ="<h1> hello</h1>";
+
+echo $name;
+
+?>
+
+
  </body>
 
  </html>

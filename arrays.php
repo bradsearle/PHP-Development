@@ -3,7 +3,7 @@
 
 <head>
      <meta charset="UTF-8">
-     <title>TITLE</title>
+     <title>TITLE2</title>
      <meta name="description" content="DESCRIPTION">
     <link rel="stylesheet" href="PATH">
 
